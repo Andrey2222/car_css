@@ -1,0 +1,88 @@
+.main {
+	height: 800px;
+	width: 1000px;
+	align:center;
+}
+.shaska {
+	background-color: blue;
+	height:38px;
+	width: 75px;
+	border-radius: 5px;
+	margin: 100px 455px 0;
+	top:2px;
+	position: relative;
+	z-index: 1;
+}
+.glass {
+	background-color: yellow;
+	height: 200px;
+	width: 400px;
+	margin: 0 300px;
+	border-radius: 90px;
+	position: relative;
+	z-index: 2;
+	opacity: 0.5;
+	display: inline-block;
+}
+.glass1 {
+	background-color: black;
+	width: 50px;
+	height: 30px;
+	display: inline-block;
+	position: relative;
+	z-index: 5;
+	bottom: 130px;
+	left: 265px;
+	border-radius: 30px;
+}
+.glass2{
+	margin-left: 360px;
+}
+.kuzov {
+	background-color:red;
+	width: 700px;
+	height: 200px;
+	margin: 0 150px;
+	border-radius: 300px;
+	position: relative;
+	z-index: 4;
+	bottom:130px;
+}
+.fara1 {
+	height: 60px;
+	width: 60px;
+	background-color:green;
+	border-radius: 40px;
+	position: relative;
+	top:30px;
+	left:105px;
+	display: inline-block;
+}
+.fara2 {
+	margin-left: 270px;
+}
+.BMW{
+	
+	position: relative;
+	left: 230px;
+	padding:10px;
+	background-color: yellow;
+	font-size: 30px;
+	font-weight: bold;
+	text-decoration: underline overline;
+	text-decoration-style: dashed;
+}
+.wheel1 {
+	background-color: blue;
+	height: 100px;
+	width: 50px;
+	z-index: 3;
+	position: relative;
+	bottom: 150px;
+	left: 270px;
+	border-radius: 30px;
+	display: inline-block;
+}
+.wheel2 {
+	left: 620px;
+}
